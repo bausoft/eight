@@ -997,7 +997,7 @@ void ThreadSocketHandler2(void* parg)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"162.243.103.233", "162.243.103.233"},
+    {"162.243.204.252", "107.170.10.34"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
